@@ -4,6 +4,7 @@ Grub selector to reboot on different OS
 # What to do ?
 
   - Clone or download
+  - Make required configuration changes     
   - chmod +x on the file who you want to execute
   - Execute the wanted bash file
   - Enjoy
