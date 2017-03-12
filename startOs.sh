@@ -16,6 +16,6 @@ then
 			exit 1
 		fi
 	else
-		sudo reboot
+		reboot
 	fi
 fi
