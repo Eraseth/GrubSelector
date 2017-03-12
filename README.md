@@ -8,9 +8,9 @@ Grub selector to reboot on different OS
   - Execute the wanted bash file
   - Enjoy
   
-The file "startOs.sh" launch an interface with a selection to do, the file "startOsT.sh" is used in a terminal without user interfaces and required the number of wanted OS to boot on.
+The file "startOs.sh" launch an interface with a selection to do, the file "startOsT.sh" is used in a terminal without user interfaces and required the number of wanted OS as parameter to boot on.
 
 Doesn't work with submenus Grub.
 
-## Screen
+## Screenshot
 ![Screen of the result](/screen1.png?raw=true "Result")
